@@ -70,7 +70,7 @@
      LightBlue                        #ADD8E6               173,216,230
      LightCoral                       #F08080               240,128,128
      LightCyan                        #E0FFFF               224,255,255
-     LightGoldenRodYellow		             #FAFAD2               250,250,210
+     LightGoldenRodYellow		      #FAFAD2               250,250,210
      LightGray                        #D3D3D3               211,211,211
      LightGreen                       #90EE90               144,238,144
      LightPink                        #FFB6C1               255,182,193
