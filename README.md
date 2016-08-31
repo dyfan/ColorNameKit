@@ -3,186 +3,147 @@
 
 * **颜色英文名**
 ```
-    color=#ffff00-->red
-    color=#000000-->green
-    color=#ffff00-->blue
-    color=#ffff00-->magenta
-    color=#000000-->yellow
-    color=#000000-->chocolate
-    color=#ffff00-->black
-    color=#000000-->aquamarine
-    color=#000000-->lime
-    color=#ffff00-->fuchsia
-    color=#ffff00-->brass
-    color=#ff0000-->azure
-    color=#ffff00-->brown
-    color=#ffff00-->bronze
-    color=#000000-->deeppink
-    color=#000000-->aliceblue
-    color=#ffff00-->gray
-    color=#ffff00-->copper
-    color=#000000-->coral
-    color=#ff0000-->feldspar
-    color=#000000-->orange
-    color=#000000-->orchid
-    color=#ff0000-->pink
-    color=#000000-->plum
-    color=#ffff00-->quartz
-    color=#ffff00-->purple
-    color=#000000-->aliceblue
-    color=#ffff00-->antiquewith
-    color=#ff0000-->blanchedalmond
-    color=#000000-->blueviolet
-    color=#ff0000-->beige
-    color=#ffff00-->burlywood
-    color=#000000-->bisque
-    color=#ffff00-->cadetblue
-    color=#000000-->pink
-    color=#ffff00-->saddlebrown
-    color=#ffff00-->royalblue
-    color=#000000-->rosybrown
-    color=#ffff00-->purple
-    color=#ffff00-->orengered
-    color=#000000-->olivedrab
-    color=#ff0000-->powderblue
-    color=#000000-->peachpuff
-    color=#ff0000-->papayawhip
-    color=#ff0000-->paleturquoise
-    color=#000000-->palevioletred
-    color=#ff0000-->palegreen
-    color=#ffff00-->navyblue
-    color=#000000-->navajowhite
-    color=#ffff00-->palegodenrod
-    color=#ff0000-->violetred
-    color=#ff0000-->yellowgreen
-    color=#ffff00-->tomato
-    color=#ff0000-->turquoise
-    color=#ff0000-->thistle
-    color=#ff0000-->springgreen
-    color=#000000-->steelblue
-    color=#000000-->salmon
-    color=#ffff00-->scarlet
-    color=#ffff00-->sienna
-    color=#000000-->silver
-    color=#ffff00-->tan
-    color=#000000-->thistle
-    color=#ff0000-->turquoise
-    color=#ffff00-->violet
-    color=#ff0000-->snow
-    color=#000000-->salmon
-    color=#ffff00-->scarlet
-    color=#ffff00-->sienna
-    color=#000000-->silver
-    color=#ffff00-->tan
-    color=#000000-->thistle
-    color=#ff0000-->turquoise
-    color=#ffff00-->violet
-    color=#ff0000-->chartreuse
-    color=#ffff00-->darkslategray
-    color=#ffff00-->darkseagreen
-    color=#ffff00-->darkred
-    color=#000000-->mediumslateblue
-    color=#ffff00-->mediumvioletred
-    color=#ff0000-->oldlace
-    color=#ffff00-->maroom
-    color=#ffff00-->goldenrod
-    color=#ff0000-->wheat
-    color=#ff0000-->whitesmoke
-    color=#000000-->orange
-    color=#ff0000-->moccasin
-    color=#ff0000-->mistyrose
-    color=#000000-->mintcream
-    color=#ffffff-->midnightblue
-    color=#000000-->dimgray
-    color=#ff0000-->darksalmon
-    color=#000000-->slategray
-    color=#ff0000-->skyblue
-    color=#ffff00-->sienna
-    color=#000000-->seashell
-    color=#ffff00-->salmon
-    color=#ffff00-->seagreen
-    color=#000000-->sandybrown
-    color=#ffff00-->firebrick
-    color=#000000-->gold
-    color=#ff0000-->khaki
-    color=#ffff00-->maroom
-    color=#ffff00-->goldenrod
-    color=#ff0000-->wheat
-    color=#ff0000-->whitesmoke
-    color=#000000-->mediumturquoise
-    color=#ffff00-->navy
-    color=#ff0000-->mediumspringgreen
-    color=#000000-->mediumseagreen
-    color=#ffff00-->mediumpurpul
-    color=#ff0000-->peru
-    color=#000000-->mediumorchid
-    color=#ffff00-->mediumblue
-    color=#000000-->mediumaquamarine
-    color=#ffff00-->maroon
-    color=#ffff00-->limegreen
-    color=#ff0000-->lightyellow
-    color=#ffff00-->lightsteelblue
-    color=#ffff00-->magenta
-    color=#ffff00-->lightslateblue
-    color=#ffff00-->lightslategray
-    color=#000000-->lightskyblue
-    color=#ff0000-->inen
-    color=#ffff00-->lightseagreen
-    color=#ffff00-->lightsalmon
-    color=#ff0000-->lightpink
-    color=#ffff00-->plum
-    color=#ffff00-->lightgray
-    color=#ff0000-->lightgreen
-    color=#ffff00-->lightgodenrodyellow
-    color=#ffff00-->indianred
-    color=#ff0000-->lavender
-    color=#000000-->lightblue
-    color=#ff0000-->lavenderblush
-    color=#ff0000-->lightcoral
-    color=#000000-->lightcyan
-    color=#ffff00-->lightgodenrod
-    color=#000000-->hotpink
-    color=#ff0000-->greenyellow
-    color=#ff0000-->lemonchiffon
-    color=#000000-->lawngreen
-    color=#ffff00-->darkorchid
-    color=#ffff00-->deepskyblue
-    color=#000000-->honeydew
-    color=#ff0000-->golenrod
-    color=#000000-->forestgreen
-    color=#ffff00-->gostwhite
-    color=#ff0000-->greenyellow
-    color=#000000-->gainsboro
-    color=#ffff00-->firebrick
-    color=#ffff00-->dodgerblue
-    color=#000000-->darkturquoise
-    color=#ffff00-->darkslateblue
-    color=#ffffff-->darkslategray
-    color=#ffff00-->darkseagreen
-    color=#ffff00-->darkred
-    color=#000000-->darkorchid
-    color=#ffff00-->darkorenge
-    color=#ffff00-->darkslateblue
-    color=#000000-->darkviolet
-    color=#ff0000-->floralwhite
-    color=#ff0000-->cyan
-    color=#000000-->darkgoldenrod
-    color=#ff0000-->cornsilk
-    color=#ffff00-->darkolivegreen
-    color=#000000-->bisquedarkgray
-    color=#ffff00-->darkblue
-    color=#ffff00-->darkcyan
-    color=#000000-->darkgreen
-    color=#ffff00-->darkhaki
-    color=#ff0000-->ivory
-    color=#ffff00-->darkmagenta
-    color=#ffff00-->darkgray
-    color=#ff0000-->cornfloewrblue
-    color=#000000-->cornfloewrblue
-    color=#ffff00-->darkviolet
-    color=#ff0000-->floralwhite
-    color=#ffff00-->darkorenge
-    color=#ffff00-->darkslateblue
+     AliceBlue                        #F0F8FF               240,248,255
+     AntiqueWhite                     #FAEBD7               250,235,215
+     Aqua                             #00FFFF               0,255,255
+     Aquamarine                       #7FFFD4               127,255,212
+     Azure                            #F0FFFF               240,255,255
+     Beige                            #F5F5DC               245,245,220
+     Bisque                           #FFE4C4               255,228,196
+     Black                            #000000               0,0,0
+     BlanchedAlmond                   #FFEBCD               255,235,205
+     Blue                             #0000FF               0,0,255
+     BlueViolet                       #8A2BE2               138,43,226
+     Brown                            #A52A2A               165,42,42
+     BurlyWood                        #DEB887               222,184,135
+     CadetBlue                        #5F9EA0               95,158,160
+     Chartreuse                       #7FFF00               127,255,0
+     Chocolate                        #D2691E               210,105,30
+     Coral                            #FF7F50               255,127,80
+     CornflowerBlue                   #6495ED               100,149,237
+     Cornsilk                         #FFF8DC               255,248,220
+     Crimson                          #DC143C               220,20,60
+     Cyan                             #00FFFF               0,255,255
+     DarkBlue                         #00008B               0,0,139
+     DarkCyan                         #008B8B               0,139,139
+     DarkGoldenRod                    #B8860B               184,134,11
+     DarkGray                         #A9A9A9               169,169,169
+     DarkGreen                        #006400               0,100,0
+     DarkKhaki                        #BDB76B               189,183,107
+     DarkMagenta                      #8B008B               139,0,139
+     DarkOliveGreen                   #556B2F               85,107,47
+     Darkorange                       #FF8C00               255,140,0
+     DarkOrchid                       #9932CC               153,50,204
+     DarkRed                          #8B0000               139,0,0
+     DarkSalmon                       #E9967A               233,150,122
+     DarkSeaGreen                     #8FBC8F               143,188,143
+     DarkSlateBlue                    #483D8B               72,61,139
+     DarkSlateGray                    #2F4F4F               47,79,79
+     DarkTurquoise                    #00CED1               0,206,209
+     DarkViolet                       #9400D3               148,0,211
+     DeepPink                         #FF1493               255,20,147
+     DeepSkyBlue                      #00BFFF               0,191,255
+     DimGray                          #696969               105,105,105
+     DimGrey                          #696969               105,105,105
+     DodgerBlue                       #1E90FF               30,144,255
+     FireBrick                        #B22222               178,34,34
+     FloralWhite                      #FFFAF0               255,250,240
+     ForestGreen                      #228B22               34,139,34
+     Fuchsia                          #FF00FF               255,0,255
+     Gainsboro                        #DCDCDC               220,220,220
+     GhostWhite                       #F8F8FF               248,248,255
+     Gold                             #FFD700               255,215,0
+     GoldenRod                        #DAA520               218,165,32
+     Gray                             #808080               128,128,128
+     Green                            #008000               0,128,0
+     GreenYellow                      #ADFF2F               173,255,47
+     HoneyDew                         #F0FFF0               240,255,240
+     HotPink                          #FF69B4               255,105,180
+     IndianRed                        #CD5C5C               205,92,92
+     Indigo                           #4B0082               75,0,130
+     Ivory                            #FFFFF0               255,255,240
+     Khaki                            #F0E68C               240,230,140
+     Lavender                         #E6E6FA               230,230,250
+     LavenderBlush                    #FFF0F5               255,240,245
+     LawnGreen                        #7CFC00               124,252,0
+     LemonChiffon                     #FFFACD               255,250,205
+     LightBlue                        #ADD8E6               173,216,230
+     LightCoral                       #F08080               240,128,128
+     LightCyan                        #E0FFFF               224,255,255
+     LightGoldenRodYellow		             #FAFAD2               250,250,210
+     LightGray                        #D3D3D3               211,211,211
+     LightGreen                       #90EE90               144,238,144
+     LightPink                        #FFB6C1               255,182,193
+     LightSalmon                      #FFA07A               255,160,122
+     LightSeaGreen                    #20B2AA               32,178,170
+     LightSkyBlue                     #87CEFA               135,206,250
+     LightSlateGray                   #778899               119,136,153
+     LightSteelBlue                   #B0C4DE               176,196,222
+     LightYellow                      #FFFFE0               255,255,224
+     Lime                             #00FF00               0,255,0
+     LimeGreen                        #32CD32               50,205,50
+     Linen                            #FAF0E6               250,240,230
+     Magenta                          #FF00FF               255,0,255
+     Maroon                           #800000               128,0,0
+     MediumAquaMarine                 #66CDAA               102,205,170
+     MediumBlue                       #0000CD               0,0,205
+     MediumOrchid                     #BA55D3               186,85,211
+     MediumPurple                     #9370DB               147,112,219
+     MediumSeaGreen                   #3CB371               60,179,113
+     MediumSlateBlue                  #7B68EE               123,104,238
+     MediumSpringGreen                #00FA9A               0,250,154
+     MediumTurquoise                  #48D1CC               72,209,204
+     MediumVioletRed                  #C71585               199,21,133
+     MidnightBlue                     #191970               25,25,112
+     MintCream                        #F5FFFA               245,255,250
+     MistyRose                        #FFE4E1               255,228,225
+     Moccasin                         #FFE4B5               255,228,181
+     NavajoWhite                      #FFDEAD               255,222,173
+     Navy                             #000080               0,0,128
+     OldLace                          #FDF5E6               253,245,230
+     Olive                            #808000               128,128,0
+     OliveDrab                        #6B8E23               107,142,35
+     Orange                           #FFA500               255,165,0
+     OrangeRed                        #FF4500               255,69,0
+     Orchid                           #DA70D6               218,112,214
+     PaleGoldenRod                    #EEE8AA               238,232,170
+     PaleGreen                        #98FB98               152,251,152
+     PaleTurquoise                    #AFEEEE               175,238,238
+     PaleVioletRed                    #DB7093               219,112,147
+     PapayaWhip                       #FFEFD5               255,239,213
+     PeachPuff                        #FFDAB9               255,218,185
+     Peru                             #CD853F               205,133,63
+     Pink                             #FFC0CB               255,192,203
+     Plum                             #DDA0DD               221,160,221
+     PowderBlue                       #B0E0E6               176,224,230
+     Purple                           #800080               128,0,128
+     Red                              #FF0000               255,0,0
+     RosyBrown                        #BC8F8F               188,143,143
+     RoyalBlue                        #4169E1               65,105,225
+     SaddleBrown                      #8B4513               139,69,19
+     Salmon                           #FA8072               250,128,114
+     SandyBrown                       #F4A460               244,164,96
+     SeaGreen                         #2E8B57               46,139,87
+     SeaShell                         #FFF5EE               255,245,238
+     Sienna                           #A0522D               160,82,45
+     Silver                           #C0C0C0               192,192,192
+     SkyBlue                          #87CEEB               135,206,235
+     SlateBlue                        #6A5ACD               106,90,205
+     SlateGray                        #708090               112,128,144
+     Snow                             #FFFAFA               255,250,250
+     SpringGreen                      #00FF7F               0,255,127
+     SteelBlue                        #4682B4               70,130,180
+     Tan                              #D2B48C               210,180,140
+     Teal                             #008080               0,128,128
+     Thistle                          #D8BFD8               216,191,216
+     Tomato                           #FF6347               255,99,71
+     Turquoise                        #40E0D0               64,224,208
+     Violet                           #EE82EE               238,130,238
+     Wheat                            #F5DEB3               245,222,179
+     White                            #FFFFFF               255,255,255
+     WhiteSmoke                       #F5F5F5               245,245,245
+     Yellow                           #FFFF00               255,255,0
+     YellowGreen                      #9ACD32               154,205,50
 ```
 * **透明度**
 ```
