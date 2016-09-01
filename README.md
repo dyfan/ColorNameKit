@@ -176,4 +176,4 @@
 
 * 相似颜色命名选择
 
-![image](https://github.com/woshihot/ColorNameKit/_image/color_all.png)
+![image](https://github.com/woshihot/ColorNameKit/blob/master/_image/color_all.png)
