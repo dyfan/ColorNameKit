@@ -173,3 +173,6 @@
     5%	   0D
     0%	   00
 ```
+
+* 相似颜色命名选择
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
